@@ -1,0 +1,10 @@
+.ansnewbtn{
+    display: flex;
+    justify-content: space-between;
+}
+.butonans{
+margin-top: 22px;
+}
+.sharebtn{
+    border: none;
+}

@@ -1,0 +1,49 @@
+.x{
+    width: 130%;
+    height: 700px;
+    border-right: 2px solid black;
+    margin-left: 6px;
+    margin-top: 1px;
+}
+.leftli{
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 1px;*/
+}
+.x1{
+    color: unset;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+.home-left:hover{
+    width: 100%;
+    background-color: rgb(90, 90, 95);
+    color: white;
+    font-size:20px ;
+    /* margin-top: 20px; */
+    cursor: pointer;
+}
+.active{
+    font-weight: bold;
+    color: black;
+    background-color: rgb(225, 225, 225);
+    width: 100%;
+}
+.x2{
+    /* margin-left: 10px; */
+    margin-bottom: 0px;
+    font-size: 25px;
+}
+.x3{
+    /* margin-left: 10px; */
+    text-decoration: none;
+    font-size: 20px;
+    color: unset;
+}
+.x4{
+    /* margin-left: 10px; */
+}
+.x5{
+    /* margin-left: 10px; */
+}
